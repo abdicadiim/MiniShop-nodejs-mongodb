@@ -1,6 +1,6 @@
 // API utility functions
 if (typeof API_BASE_URL === 'undefined') {
-    var API_BASE_URL = 'http://localhost:5000/api';
+    var API_BASE_URL = 'https://minishop-nodejs-mongodb-backend.onrender.com';
 }
 
 // Check if auth functions are available
