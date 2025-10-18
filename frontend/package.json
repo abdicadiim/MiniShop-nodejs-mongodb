@@ -1,0 +1,14 @@
+{
+  "name": "minishop-frontend",
+  "version": "1.0.0",
+  "description": "MiniShop eCommerce Frontend",
+  "scripts": {
+    "start": "python -m http.server 3000",
+    "dev": "python -m http.server 3000"
+  },
+  "keywords": ["ecommerce", "frontend", "vanilla-js"],
+  "author": "MiniShop Developer",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
